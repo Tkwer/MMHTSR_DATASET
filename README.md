@@ -9,6 +9,9 @@ At the same time, we have made our dataset publicly available, comprising over 1
 <https://pan.quark.cn/s/2d19368aaabb>,
 <https://pan.quark.cn/s/9e35b43a4887>
 
+## Data Visualization
+<img src="img\556.gif" style="zoom:50%" />
+
 ## Visualization
 
 In traditional network training and signal processing, writing and debugging code can be a complex and time-consuming task. However, through our platform, you can accomplish these tasks using an intuitive graphical interface, without the need for an in-depth understanding of programming details. This makes it easy even for researchers to engage in network training and signal processing, saving a significant amount of time and effort. Moreover, our platform offers rich visualization capabilities to help you comprehend and analyze your data as well as your model's performance. These visualization tools provide you with deeper insights, assisting you in making more informed decisions.
